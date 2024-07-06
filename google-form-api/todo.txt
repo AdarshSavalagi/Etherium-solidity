@@ -1,0 +1,2 @@
+1. change contract address
+2. change owner private key
